@@ -119,3 +119,4 @@
 // }
 // console.log(task3());
  
+    document.querySelector('.btn__add').innerHTML = 1
